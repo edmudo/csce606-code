@@ -1,0 +1,2 @@
+https://csce606-esd.herokuapp.com/
+https://github.com/edmudo/hw-rails-intro
